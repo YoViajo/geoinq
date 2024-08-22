@@ -1,0 +1,4 @@
+https://github.com/YoViajo/geoinq/blob/main/semanarioOSM/yoviajo_heatmap_2024ago.PNG
+
+![Descripción de la imagen](https://github.com/YoViajo/geoinq/blob/main/semanarioOSM/yoviajo_heatmap_2024ago.PNG?raw=true)
+
